@@ -120,6 +120,7 @@ class _HomePageState extends State<HomePage> {
           ),
         );
       }
+      
       inputHistory.clear();
     } else {
       userQuestion += label;
